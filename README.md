@@ -13,7 +13,7 @@ Utilizei o Copilot para pesquisar o conceito do Método ABA e sua aplicação no
 Na sequência, utilizei o Gamma para criar uma apresentação a partir do texto criado pelo Copilot
 
 ## 🚀 Resultados
-8 slides criados com IA – texto e ilustrações
+[8 slides criados com IA – texto e ilustrações](https://gamma.app/docs/A-Analise-do-Comportamento-Aplicada-ABA-d2b9qcqctt69hfe)
 
 ## 💭 Reflexão (Opcional)
 É imprescindível a revisão humana do conteúdo criado. Houve figuras de representação humana criadas sem os membros ou com membros sobrando.
